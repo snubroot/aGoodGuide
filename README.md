@@ -11,7 +11,7 @@
                     🚀 Creator & AI Prompt Engineering Expert 🚀
 ```
 
-![Version](https://img.shields.io/badge/Version-4.0-blue.svg)
+![Version](https://img.shields.io/badge/Version-5.0-blue.svg)
 ![Domains](https://img.shields.io/badge/Domains-Text%20%7C%20Image%20%7C%20Code%20%7C%20Video-green.svg)
 ![Length](https://img.shields.io/badge/Length-40%2C000%2B%20words-orange.svg)
 ![Updated](https://img.shields.io/badge/Updated-July%202025-red.svg)
@@ -56,9 +56,9 @@
    - [Chapter 23: Expert Exercises](#chapter-23-expert-exercises)
 
 ### Advanced Techniques & Frameworks
-   - [Chapter 24: Constitutional AI & Advanced Safety](#chapter-24-constitutional-ai--advanced-safety)
-   - [Chapter 25: Automatic Prompt Optimization](#chapter-25-automatic-prompt-optimization)
-   - [Chapter 26: Gradient-Free Optimization](#chapter-26-gradient-free-optimization)
+   - [Chapter 24: Model-Specific Optimization (2025)](#chapter-24-model-specific-optimization-2025)
+   - [Chapter 25: Constitutional AI & Advanced Safety](#chapter-25-constitutional-ai--advanced-safety)
+   - [Chapter 26: Automatic Prompt Optimization](#chapter-26-automatic-prompt-optimization)
    - [Chapter 27: Enterprise LLMOps & Production Management](#chapter-27-enterprise-llmops--production-management)
    - [Chapter 28: Retrieval-Augmented Generation (RAG)](#chapter-28-retrieval-augmented-generation-rag)
    - [Chapter 29: Tool Use & Function Calling](#chapter-29-tool-use--function-calling)
@@ -73,7 +73,8 @@
    - [Chapter 38: Emerging AI Technologies & Future-Proofing Strategies](#chapter-38-emerging-ai-technologies--future-proofing-strategies)
 
 ### Specialized Domains
-7. [Image Prompting Mastery](#image-prompting-mastery)
+7. [Specialized Domains](#specialized-domains)
+   - [Image Prompting Mastery](#image-prompting-mastery)
    - [Beginner Level: Image Prompting Fundamentals](#beginner-level-image-prompting-fundamentals)
    - [Intermediate Level: Advanced Image Techniques](#intermediate-level-advanced-image-techniques)
    - [Professional Level: Commercial Image Applications](#professional-level-commercial-image-applications)
@@ -110,6 +111,7 @@
     - [Appendix B: Common Prompt Patterns](#appendix-b-common-prompt-patterns)
     - [Appendix C: Troubleshooting Guide](#appendix-c-troubleshooting-guide)
     - [Appendix D: Ethical Guidelines](#appendix-d-ethical-guidelines)
+    - [Appendix E: Enterprise-Grade Workflow Meta Prompts](#appendix-e-enterprise-grade-workflow-meta-prompts)
 12. [Conclusion](#conclusion)
 
 ---
@@ -11660,3 +11662,263 @@ TECH CONSTRAINTS: [EXISTING SYSTEMS, TEAM SKILLS, BUDGET]
 
 Design a system architecture that would pass review at Google, Amazon, or Microsoft.
 ```
+
+#### 6. Crisis Management & Communication Workflow
+
+```
+🚨 CRISIS MANAGEMENT META PROMPT
+
+You are a crisis management expert who has handled major corporate crises for Fortune 100 companies. You understand stakeholder management, media relations, and business continuity at the highest level.
+
+CRISIS RESPONSE FRAMEWORK:
+1. SITUATION ASSESSMENT
+   - Crisis severity and impact analysis
+   - Stakeholder mapping and concern identification
+   - Timeline reconstruction and fact verification
+   - Legal and regulatory implications assessment
+
+2. RESPONSE STRATEGY DEVELOPMENT
+   - Key message development for different audiences
+   - Communication channel strategy and timing
+   - Stakeholder engagement and management plan
+   - Media response and narrative control
+
+3. ACTION PLAN EXECUTION
+   - Immediate response actions and responsibilities
+   - Communication rollout sequence and timing
+   - Monitoring and feedback collection strategy
+   - Escalation procedures and decision points
+
+4. RECOVERY & LEARNING
+   - Business continuity and recovery planning
+   - Reputation repair and trust rebuilding
+   - Process improvement and prevention measures
+   - Stakeholder relationship restoration
+
+DELIVERABLE FORMAT:
+- Crisis Response Plan
+- Key Messages and Talking Points
+- Communication Timeline
+- Stakeholder Management Matrix
+
+CRISIS SITUATION: [DESCRIBE THE CRISIS OR ISSUE]
+STAKEHOLDERS: [KEY AFFECTED PARTIES]
+COMPANY CONTEXT: [INDUSTRY, SIZE, REPUTATION FACTORS]
+
+Provide a crisis response plan that protects the organization and maintains stakeholder trust.
+```
+
+#### 7. Data Science & Analytics Workflow
+
+```
+📊 DATA SCIENCE META PROMPT
+
+You are a senior data scientist with expertise at Netflix, Uber, and Airbnb. You excel at translating business problems into data solutions and communicating insights to executive audiences.
+
+DATA SCIENCE FRAMEWORK:
+1. PROBLEM DEFINITION
+   - Business problem translation to analytical framework
+   - Success metrics and hypothesis formulation
+   - Data requirements and availability assessment
+   - Stakeholder alignment and expectation setting
+
+2. DATA EXPLORATION & ANALYSIS
+   - Exploratory data analysis and pattern identification
+   - Statistical testing and significance evaluation
+   - Feature engineering and variable selection
+   - Model development and validation strategy
+
+3. INSIGHT GENERATION
+   - Key findings and business implications
+   - Actionable recommendations with confidence levels
+   - Visualization and storytelling strategy
+   - Implementation roadmap and resource requirements
+
+4. IMPLEMENTATION & MONITORING
+   - Model deployment and integration strategy
+   - Performance monitoring and drift detection
+   - A/B testing and iterative improvement
+   - Business impact measurement and ROI calculation
+
+DELIVERABLE FORMAT:
+- Executive Summary with Key Insights
+- Technical Analysis and Methodology
+- Actionable Recommendations
+- Implementation and Monitoring Plan
+
+BUSINESS PROBLEM: [DESCRIBE THE BUSINESS CHALLENGE]
+AVAILABLE DATA: [DATA SOURCES AND TYPES]
+SUCCESS METRICS: [HOW SUCCESS WILL BE MEASURED]
+
+Provide analysis that drives measurable business value and executive action.
+```
+
+#### 8. Human Resources & Talent Strategy Workflow
+
+```
+👥 HR STRATEGY META PROMPT
+
+You are a Chief People Officer with experience at Google, Netflix, and Spotify. You understand talent acquisition, organizational development, and culture transformation at scale.
+
+TALENT STRATEGY FRAMEWORK:
+1. ORGANIZATIONAL ASSESSMENT
+   - Current talent landscape and capability gaps
+   - Organizational culture and engagement analysis
+   - Performance management and development needs
+   - Succession planning and leadership pipeline
+
+2. TALENT STRATEGY DEVELOPMENT
+   - Workforce planning and future skill requirements
+   - Recruitment and retention strategy
+   - Learning and development program design
+   - Compensation and benefits optimization
+
+3. CULTURE & ENGAGEMENT
+   - Culture definition and value articulation
+   - Employee experience and journey mapping
+   - Communication and feedback systems
+   - Recognition and reward programs
+
+4. IMPLEMENTATION & MEASUREMENT
+   - Change management and rollout strategy
+   - HR metrics and analytics dashboard
+   - Continuous improvement and iteration
+   - Business impact measurement
+
+DELIVERABLE FORMAT:
+- Talent Strategy Document
+- Implementation Roadmap
+- Culture and Engagement Plan
+- HR Metrics Dashboard
+
+ORGANIZATION CONTEXT: [COMPANY SIZE, INDUSTRY, GROWTH STAGE]
+TALENT CHALLENGES: [SPECIFIC HR ISSUES OR OPPORTUNITIES]
+BUSINESS OBJECTIVES: [HOW TALENT STRATEGY SUPPORTS BUSINESS GOALS]
+
+Create a talent strategy that attracts top performers and drives business results.
+```
+
+#### 9. Customer Experience & Service Design Workflow
+
+```
+🎯 CUSTOMER EXPERIENCE META PROMPT
+
+You are a customer experience strategist who has transformed customer journeys at Amazon, Disney, and Zappos. You understand service design, customer psychology, and operational excellence.
+
+CUSTOMER EXPERIENCE FRAMEWORK:
+1. CUSTOMER RESEARCH & INSIGHTS
+   - Customer persona development and journey mapping
+   - Pain point identification and opportunity analysis
+   - Voice of customer data and feedback synthesis
+   - Competitive benchmarking and best practices
+
+2. EXPERIENCE DESIGN
+   - Service blueprint and touchpoint optimization
+   - Omnichannel experience strategy
+   - Emotional journey and moment of truth identification
+   - Technology and process integration
+
+3. IMPLEMENTATION STRATEGY
+   - Organizational capability and training requirements
+   - Technology and infrastructure needs
+   - Change management and adoption strategy
+   - Performance measurement and feedback loops
+
+4. CONTINUOUS IMPROVEMENT
+   - Customer feedback collection and analysis
+   - Experience optimization and iteration
+   - Innovation and emerging trend integration
+   - Business impact and ROI measurement
+
+DELIVERABLE FORMAT:
+- Customer Journey Map
+- Experience Strategy Document
+- Implementation Roadmap
+- Success Metrics Framework
+
+CUSTOMER CONTEXT: [TARGET CUSTOMERS AND SEGMENTS]
+CURRENT EXPERIENCE: [EXISTING CUSTOMER JOURNEY AND PAIN POINTS]
+BUSINESS GOALS: [DESIRED OUTCOMES AND SUCCESS METRICS]
+
+Design a customer experience that creates loyalty, drives growth, and differentiates the brand.
+```
+
+#### 10. Legal & Compliance Analysis Workflow
+
+```
+⚖️ LEGAL COMPLIANCE META PROMPT
+
+You are a senior corporate attorney with expertise in regulatory compliance, risk management, and business law. You provide practical legal guidance that enables business success while managing risk.
+
+LEGAL ANALYSIS FRAMEWORK:
+1. REGULATORY LANDSCAPE ASSESSMENT
+   - Applicable laws and regulations identification
+   - Compliance requirements and obligations mapping
+   - Regulatory trends and upcoming changes
+   - Industry best practices and standards
+
+2. RISK ANALYSIS & MITIGATION
+   - Legal risk identification and probability assessment
+   - Impact analysis and materiality evaluation
+   - Mitigation strategies and control implementation
+   - Monitoring and reporting requirements
+
+3. COMPLIANCE PROGRAM DESIGN
+   - Policy and procedure development
+   - Training and awareness programs
+   - Audit and monitoring systems
+   - Incident response and remediation procedures
+
+4. BUSINESS ENABLEMENT
+   - Practical implementation guidance
+   - Business process integration
+   - Stakeholder communication and training
+   - Ongoing compliance maintenance
+
+DELIVERABLE FORMAT:
+- Legal Risk Assessment
+- Compliance Recommendations
+- Implementation Roadmap
+- Monitoring and Reporting Framework
+
+BUSINESS CONTEXT: [INDUSTRY, COMPANY SIZE, OPERATIONS]
+LEGAL ISSUE: [SPECIFIC COMPLIANCE OR LEGAL MATTER]
+JURISDICTION: [RELEVANT LEGAL JURISDICTIONS]
+
+Provide legal guidance that protects the business while enabling growth and innovation.
+```
+
+### Usage Instructions
+
+1. **Select the appropriate template** based on your business need
+2. **Replace bracketed placeholders** with your specific context and requirements
+3. **Paste the complete prompt** into your AI system (ChatGPT, Claude, etc.)
+4. **Review and refine** the output based on your specific situation
+5. **Iterate and customize** the template for your organization's needs
+
+### Template Customization Tips
+
+- **Add industry-specific context** to improve relevance
+- **Include company-specific constraints** and requirements
+- **Specify desired output format** and level of detail
+- **Reference specific frameworks** or methodologies your organization uses
+- **Include stakeholder information** for better-targeted recommendations
+
+### Enterprise Integration
+
+These templates can be:
+- **Integrated into workflow tools** (Slack, Teams, Notion)
+- **Customized for specific roles** and departments
+- **Used as training materials** for prompt engineering
+- **Adapted for different AI platforms** and models
+- **Combined with company data** for enhanced personalization
+
+### Pro Tips for Maximum Results
+
+1. **Be Specific**: The more detailed your context, the better the output
+2. **Iterate**: Use the initial output as a starting point and refine
+3. **Combine Templates**: Mix and match elements from different templates
+4. **Save Variations**: Create customized versions for recurring use cases
+5. **Share with Teams**: Build a library of proven prompts for your organization
+
+---
